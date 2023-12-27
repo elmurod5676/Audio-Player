@@ -1,0 +1,17 @@
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\elmuroddev\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
